@@ -1,6 +1,6 @@
 ﻿# SandboxVMTerraformDocker
-Prerequirements:
-Install Vagrant (https://developer.hashicorp.com/vagrant/docs/installation) 
+Prerequirements:  
+Install Vagrant (https://developer.hashicorp.com/vagrant/docs/installation)  
 Instal VirtualBox  
 Create Vagrantfile  
 create infrastructure - vagrant up  
