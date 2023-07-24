@@ -1,5 +1,4 @@
 # Create environment Ubuntu22.04 + Docker + Terraform
-# from turtorial  - https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003/apply
 
 HOSTNAME = "ubuntu"
 MEMORY = 1024
